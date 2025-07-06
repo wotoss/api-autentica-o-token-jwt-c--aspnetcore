@@ -1,0 +1,55 @@
+## Compilação .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+**/out/
+**/Release/
+**/Debug/
+
+## Configurações do Visual Studio
+.vscode/
+*.code-workspace
+.vs/
+
+## Arquivos temporários do sistema
+*.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+## Configurações do Rider / JetBrains
+.idea/
+
+## Visual Studio for Mac
+*.userprefs
+
+## Pacotes NuGet locais
+*.nupkg
+packages/
+.nuget/
+
+## Arquivos de publicação
+publish/
+
+## Banco de dados local (opcional)
+*.db
+*.sqlite
+
+## Secrets locais
+secrets.json
+
+## SSL e certificados locais (caso esteja usando)
+*.pfx
+*.key
+*.crt
+
+## Arquivos de ambiente
+.env
+
+## Arquivos de conflito do Git
+*.orig

@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WOTO\\Desktop\\Live-Estudo\\Projeto-Curso-Alura\\Identity\\UsuariosApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE160A-19FF-47DE-BE5E-285D40D90B9A}|UsuariosApi.csproj|c:\\users\\woto\\desktop\\live-estudo\\projeto-curso-alura\\identity\\usuariosapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C9AE160A-19FF-47DE-BE5E-285D40D90B9A}|UsuariosApi.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE160A-19FF-47DE-BE5E-285D40D90B9A}|UsuariosApi.csproj|c:\\users\\woto\\desktop\\live-estudo\\projeto-curso-alura\\identity\\usuariosapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C9AE160A-19FF-47DE-BE5E-285D40D90B9A}|UsuariosApi.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE160A-19FF-47DE-BE5E-285D40D90B9A}|UsuariosApi.csproj|c:\\users\\woto\\desktop\\live-estudo\\projeto-curso-alura\\identity\\usuariosapi\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AE160A-19FF-47DE-BE5E-285D40D90B9A}|UsuariosApi.csproj|solutionrelative:service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE160A-19FF-47DE-BE5E-285D40D90B9A}|UsuariosApi.csproj|c:\\users\\woto\\desktop\\live-estudo\\projeto-curso-alura\\identity\\usuariosapi\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AE160A-19FF-47DE-BE5E-285D40D90B9A}|UsuariosApi.csproj|solutionrelative:service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE160A-19FF-47DE-BE5E-285D40D90B9A}|UsuariosApi.csproj|c:\\users\\woto\\desktop\\live-estudo\\projeto-curso-alura\\identity\\usuariosapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AE160A-19FF-47DE-BE5E-285D40D90B9A}|UsuariosApi.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE160A-19FF-47DE-BE5E-285D40D90B9A}|UsuariosApi.csproj|c:\\users\\woto\\desktop\\live-estudo\\projeto-curso-alura\\identity\\usuariosapi\\usuariosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9AE160A-19FF-47DE-BE5E-285D40D90B9A}|UsuariosApi.csproj|solutionrelative:usuariosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE160A-19FF-47DE-BE5E-285D40D90B9A}|UsuariosApi.csproj|c:\\users\\woto\\desktop\\live-estudo\\projeto-curso-alura\\identity\\usuariosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AE160A-19FF-47DE-BE5E-285D40D90B9A}|UsuariosApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\WOTO\\Desktop\\Live-Estudo\\Projeto-Curso-Alura\\Identity\\UsuariosApi\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\WOTO\\Desktop\\Live-Estudo\\Projeto-Curso-Alura\\Identity\\UsuariosApi\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwDcAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-07-06T00:28:33.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\WOTO\\Desktop\\Live-Estudo\\Projeto-Curso-Alura\\Identity\\UsuariosApi\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\WOTO\\Desktop\\Live-Estudo\\Projeto-Curso-Alura\\Identity\\UsuariosApi\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-06T00:12:30.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuariosApi",
+              "DocumentMoniker": "C:\\Users\\WOTO\\Desktop\\Live-Estudo\\Projeto-Curso-Alura\\Identity\\UsuariosApi\\UsuariosApi.csproj",
+              "RelativeDocumentMoniker": "UsuariosApi.csproj",
+              "ToolTip": "C:\\Users\\WOTO\\Desktop\\Live-Estudo\\Projeto-Curso-Alura\\Identity\\UsuariosApi\\UsuariosApi.csproj",
+              "RelativeToolTip": "UsuariosApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T21:53:21.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WOTO\\Desktop\\Live-Estudo\\Projeto-Curso-Alura\\Identity\\UsuariosApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\WOTO\\Desktop\\Live-Estudo\\Projeto-Curso-Alura\\Identity\\UsuariosApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T21:27:29.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\WOTO\\Desktop\\Live-Estudo\\Projeto-Curso-Alura\\Identity\\UsuariosApi\\Service\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Service\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\WOTO\\Desktop\\Live-Estudo\\Projeto-Curso-Alura\\Identity\\UsuariosApi\\Service\\UsuarioService.cs",
+              "RelativeToolTip": "Service\\UsuarioService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T21:11:46.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\WOTO\\Desktop\\Live-Estudo\\Projeto-Curso-Alura\\Identity\\UsuariosApi\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\WOTO\\Desktop\\Live-Estudo\\Projeto-Curso-Alura\\Identity\\UsuariosApi\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA7wB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:26:21.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\WOTO\\Desktop\\Live-Estudo\\Projeto-Curso-Alura\\Identity\\UsuariosApi\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\WOTO\\Desktop\\Live-Estudo\\Projeto-Curso-Alura\\Identity\\UsuariosApi\\Service\\TokenService.cs",
+              "RelativeToolTip": "Service\\TokenService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:11:17.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
