@@ -29,8 +29,8 @@ Este projeto é uma API construída com ASP.NET Core (.NET 8) que implementa auten
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/wotoss/api-autentica-o-token-jwt-c--aspnetcore.git
-   cd nomedorepositorio
+   git clone https://github.com/wotoss/api-autenticao-token-jwt-csharp-aspnetcore.git
+   cd api-autenticao-token-jwt-csharp-aspnetcore
 
 
 
