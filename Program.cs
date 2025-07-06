@@ -16,7 +16,8 @@ var builder = WebApplication.CreateBuilder(args);
 //neste momento eu inicio a configuração da minha conexção com base de dados
 builder.Services.AddDbContext<UsuarioDbContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("UsuarioConnection"));
+    //estou usando a "conceito" - user-secrets como se fosse uma "variavel de ambiente".
+    options.UseSqlServer(builder.Configuration["ConnectionStrings:UsuarioConnection"]);
 });
 //identity eu quero adicionar o  conceito de identidade para este class (Usuario)
 //e tambem o papel deste usuario será gerenciado pela (IdentityRole)
@@ -49,7 +50,7 @@ builder.Services.AddAuthentication(options =>
       ValidateIssuerSigningKey = true,
       //quero utilizar esta chave já que aqui faremos a validação
       IssuerSigningKey = new SymmetricSecurityKey
-         (Encoding.UTF8.GetBytes("wotoy8fW3mXzP2sT9rQ5uV7eY1bL6aK0dJnO")),
+         (Encoding.UTF8.GetBytes(builder.Configuration["SymmetricSecurityKey"])),
       //é uma parte de segurança para não ser "reutizado em outro site"
       //mas neste momento deixaremos como false.
       ValidateAudience = false,

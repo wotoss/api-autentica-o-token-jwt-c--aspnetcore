@@ -10,6 +10,11 @@ namespace UsuariosApi.Service
 {
     public class TokenService
     {
+        private readonly IConfiguration _configuration;
+        public TokenService(IConfiguration configuration)
+        {
+            _configuration = configuration;
+        }
         public string GenerateToken(Usuario usuario)
         {
             //vamos preencher (atraves das Claims) este token 
@@ -26,7 +31,7 @@ namespace UsuariosApi.Service
 
             //chave para gerar o token
             var chave = new SymmetricSecurityKey
-                (Encoding.UTF8.GetBytes("wotoy8fW3mXzP2sT9rQ5uV7eY1bL6aK0dJnO"));
+                (Encoding.UTF8.GetBytes(_configuration["SymmetricSecurityKey"]));
 
             var signingCredentials =
                 new SigningCredentials(chave,
