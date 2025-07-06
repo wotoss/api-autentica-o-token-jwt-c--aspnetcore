@@ -18,7 +18,10 @@ namespace UsuariosApi.Service
                 new Claim("username", usuario.UserName),
                 new Claim("id", usuario.Id),
                 new Claim(ClaimTypes.DateOfBirth, 
-                usuario.DataNascimento.ToString())
+                usuario.DataNascimento.ToString()),
+                //momento em que foi criado a (login/claim) - loginTimesstamp
+                new Claim("loginTimestamp",
+                DateTime.UtcNow.ToString()),
             };
 
             //chave para gerar o token
